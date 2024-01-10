@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Hsu Thinzar
-- 🌱 I’m currently learning ...HTML, CSS, C# and Java.
+- 🌱 I’m currently learning C# and Java.
