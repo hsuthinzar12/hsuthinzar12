@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hsu Thinzar</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **VueJs**
+- 🌱 I’m currently learning **React & React Native**
 
 - 📫 How to reach me **thinzarhsu12@gmail.com**
   
